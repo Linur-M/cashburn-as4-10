@@ -1,0 +1,8 @@
+{
+  "name": "cb-report-as4",
+  "version": "0.1.10",
+  "description": "CFO Financial System v55 - strict monthly cash burn reports. v55 (additive): COMPANY_FILE_PATTERNS registry replaces hardcoded filename lists; pre-flight Month x Account coverage matrix; HSBC One Card PDF parser (parse_hsbc_cc); coverage assertion U-11 (BLOCK on required-account gaps); Addition W - TIER1 exact-match priority + field-scoped substring matching fixing generic-keyword false positives. Retains v50-v54; columns A-R fixed.",
+  "author": {
+    "name": "Nextage"
+  }
+}
